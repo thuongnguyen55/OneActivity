@@ -1,6 +1,5 @@
 <h1>Các ứng dụng bài tập Android</h1>
 
-<ol type="A">
 <li><p>Thiết lập và nhận thông tin từ các Android Views</p></li>
 <li><a href="https://github.com/thuongnguyen55/BaiMot">Sự kiện và xử lý sự kiện trong android</a></li>
 <li><a href="https://github.com/thuongnguyen55/MotionEvent">Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong android</a></li>
@@ -13,7 +12,6 @@
 <li><a href="https://github.com/thuongnguyen55/SQLiteDemoApplication">Lập trình cơ sở dữ liệu android với SQLite</a></li>
 <li><a href="https://github.com/thuongnguyen55/Caculator">Ứng dụng về máy tính cá nhân</a></li>
 <li><a href="https://github.com/thuongnguyen55/FromThongtin">Ứng dụng hiển thị thông tin</a></li>
-</ol>
 <br />
 <br />
 <a>Ký tên: Nguyễn Trần Trọng Thưởng</a>
