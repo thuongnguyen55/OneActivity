@@ -1,6 +1,6 @@
 <h1>Các ứng dụng bài tập Android</h1>
 
-<li><p>Thiết lập và nhận thông tin từ các Android Views</p></li>
+<li><a>Thiết lập và nhận thông tin từ các Android Views</a></li>
 <li><a href="https://github.com/thuongnguyen55/BaiMot">Sự kiện và xử lý sự kiện trong android</a></li>
 <li><a href="https://github.com/thuongnguyen55/MotionEvent">Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong android</a></li>
 <li><a href="https://github.com/thuongnguyen55/CommonGesturesActivity">Phát hiện cử chỉ người dùng với lớp Android Gesture Detector</a></li>
